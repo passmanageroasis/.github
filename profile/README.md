@@ -32,6 +32,7 @@
    * Both in-app and server-side multistep encryption.
    * If there are any issues on our end (server breach/data leak) any leaked data will be virtually unusable.
    * Scheduled server maintenance, without risk of dataloss.
+  
 ### 4. Pricing
 
 * Good news is, you get this package entirely for free! All you need is a valid email address, and you're good to go.
@@ -40,7 +41,6 @@
 ### 5. Community
 
 * Communication is important. That's why the user will have many different ways to give feedback and criticism directly to us, including in-app reports and external discussion channels. Communication will be completely anonymous, which we believe will help establish a positive, dedicated and honest community.
-
 
 # Installation
 # Resources
