@@ -1,13 +1,24 @@
-# Pass Manager Oasis
+<h1 align="center"><img src="./banner.png"></h1>
+<h1 align="center">Pass Manager Oasis</h1>
+<h4 align="center">A transparent and open-source password management multitool</h4>
 
-## Table of Contents:
-1. [Introduction](#Introduction)
-2. [Installation](#Installation)
-3. [Resources](#Resources)
-4. [Guides](#Guides)
-5. [FAQ](#FAQ)
-6. [Contributors](#Contributors)
-7. [Useful links](#Useful%20links)
+<p align="center">
+<img alt="Static Badge" src="https://img.shields.io/badge/Release-1.0.0-Version?color=0080FF">
+<img alt="Static Badge" src="https://img.shields.io/badge/Discord%20-Magisc,%20Kaillr-Socials?color=00bbFF">
+<img alt="Static Badge" src="https://img.shields.io/badge/status-in%20development-status?style=flat&color=00EE00">
+</p>
+
+<p align="center">
+<a href="#installation">Introduction</a> •
+<a href="#installation">Installation</a> •
+<a href="#installation">Features</a> •
+<a href="#installation">Resources</a> •
+<a href="#installation">Guides</a> •
+<a href="#faq">FAQ</a> •
+<a href="#installation">Contributors</a> •
+<a href="#installation">Credits</a> •
+<a href="#installation">Useful Links</a>
+</p>
 
 # Introduction
 
@@ -45,6 +56,22 @@
 # Installation
 # Resources
 # Guides
-# Frequently Asked Questions (FAQ)
+# FAQ
 # Contributors
 # Useful Links
+
+
+<!-- > [!NOTE]  
+> Highlights information that users should take into account, even when skimming.
+
+> [!TIP]
+> Optional information to help a user be more successful.
+
+> [!IMPORTANT]  
+> Crucial information necessary for users to succeed.
+
+> [!WARNING]  
+> Critical content demanding immediate user attention due to potential risks.
+
+> [!CAUTION]
+> Negative potential consequences of an action.
