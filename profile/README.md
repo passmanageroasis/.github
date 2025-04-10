@@ -44,7 +44,7 @@ With PMO we aim to avoid some of the industry standards that would make our serv
 - Fully anonymous accounts, only there for the user to access their data.
 - Both in-app and server-side multistep encryption.
 - If there are any issues on our end (server breach/data leak) any leaked data will be virtually unusable.
-- Regular non-distruptive server maintenance to ensure data security.
+- Regular non-disruptive server maintenance to ensure data security.
 - **Fully open-source** so you know ***exactly*** how your data is being handled!
   
 ### 4. Pricing
