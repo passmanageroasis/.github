@@ -1,4 +1,6 @@
-<img src="./banner.png">
+<div align="center">
+  <img src="./cover.png">
+</div>
 <h1 align="center">Pass Manager Oasis</h1>
 <h4 align="center">A transparent and open-source password management multitool</h4>
 
