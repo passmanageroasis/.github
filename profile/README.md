@@ -67,6 +67,9 @@ With PMO we aim to avoid some of the industry standards that would make our serv
 # Credits
 # Useful Links
 
+> [!NOTE]
+> This is an experimental project, not an actual product or app. Any questions? Refer to the devs directly on Discord
+
 
 <!-- > [!NOTE]  
 > Highlights information that users should take into account, even when skimming.
